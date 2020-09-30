@@ -1,2 +1,2 @@
 # ArtificialIntelligence---Copy
- sample
+Curso de Inteligencia Artificial
